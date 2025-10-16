@@ -71,6 +71,22 @@ npm install
 
 ### Running the Application
 
+#### Quick Start (Recommended)
+
+**Linux/Mac:**
+```bash
+./start.sh
+```
+
+**Windows:**
+```bash
+start.bat
+```
+
+These scripts will automatically install dependencies and start both servers.
+
+#### Manual Start
+
 1. Start the backend server (from the `backend` directory):
 ```bash
 npm start
